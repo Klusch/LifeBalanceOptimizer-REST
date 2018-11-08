@@ -1,0 +1,2 @@
+https://jaxenter.de/spring-boot-tutorial-54020
+https://www.baeldung.com/building-a-restful-web-service-with-spring-and-java-based-configuration

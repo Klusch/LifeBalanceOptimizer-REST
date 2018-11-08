@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: de.kluge.falkensee.LifeBalanceOptimizer.LifeBalanceOptimizerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.422 s - in de.kluge.falkensee.LifeBalanceOptimizer.LifeBalanceOptimizerApplicationTests
