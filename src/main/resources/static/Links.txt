@@ -1,2 +1,6 @@
 https://jaxenter.de/spring-boot-tutorial-54020
 https://www.baeldung.com/building-a-restful-web-service-with-spring-and-java-based-configuration
+
+
+https://marketplace.eclipse.org/content/spring-tool-suite-sts-eclipse
+https://o7planning.org/de/11649/sichere-spring-boot-restful-service-mit-basic-authentication
